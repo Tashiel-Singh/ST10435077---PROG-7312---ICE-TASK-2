@@ -1,0 +1,39 @@
+## Visual Studio / .NET Ignore
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bld/
+[Bb]uild/
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# JetBrains Rider / Resharper / VS Code
+.idea/
+.vscode/
+*.DotSettings
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
